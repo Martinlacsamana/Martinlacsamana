@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building @ Elavize - a startup aimed at connecting aspiring job seekers with mentors.  However, my passion for growth extends beyond Elavize. When I'm not working on the startup, I'm currently teaching myself system design and becoming AWS Certified!<br><br>In my (forced) free time, I enjoy wasting money on good food, typically with friends. I love weightlifting and learning how to cook without setting my kitchen on fire
+I'm currently building @ Elavize - a startup aimed at connecting aspiring job seekers with mentors.  However, my passion for growth extends beyond Elavize. When I'm not working on the startup, I'm currently teaching myself system design and becoming AWS Certified!<br><br>In my (forced) free time, I enjoy wasting money on good food, typically with friends. I love weightlifting and learning how to cook without setting my kitchen on fire.
 
 
 ## 🌐 Socials:
