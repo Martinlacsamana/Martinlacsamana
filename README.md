@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building @ Elavize - a startup aimed at connecting aspiring job seekers with mentors.<br><br>As well, I'm currently teaching myself system design and becoming AWS Certified!<br><br>In my (forced) free time, I enjoy wasting money on good food, typically with friends. I love weight lifting and learning how to cook without setting my kitchen on fire
+I'm currently building @ Elavize - a startup aimed at connecting aspiring job seekers with mentors.  However, my passion for growth extends beyond Elavize. When I'm not working on the startup, I'm currently teaching myself system design and becoming AWS Certified!<br><br>In my (forced) free time, I enjoy wasting money on good food, typically with friends. I love weightlifting and learning how to cook without setting my kitchen on fire
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ I'm currently building @ Elavize - a startup aimed at connecting aspiring job se
 ![](https://github-readme-stats.vercel.app/api?username=Martinlacsamana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Martinlacsamana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinlacsamana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Martinlacsamana&icon=0&color=0)](https://visitcount.itsvg.in)
