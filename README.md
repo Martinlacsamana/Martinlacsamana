@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently building @ Elavize - a startup aimed at connecting aspiring job seekers with mentors.  However, my passion for growth extends beyond Elavize. When I'm not working on the startup, I'm currently teaching myself system design and becoming AWS Certified!<br><br>In my (forced) free time, I enjoy wasting money on good food, typically with friends. I love weightlifting and learning how to cook without setting my kitchen on fire.
-
+I'm currently building @ Elavize - a startup aimed at connecting aspiring job seekers with mentors. Concurrently, I'm teaching myself system design and the cloud, hoping to become AWS Certified come the summer!<br><br>In my (forced) free time, I enjoy wasting money on good food with friends. I love weightlifting and learning how to cook without setting my kitchen on fire.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-lacsamana) 
