@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm building @ Stealth, working at as many cafe spots as possible! I also became AWS Certified Developer as of April 2! <br><br>In my (forced) free time, I enjoy wasting money on good food with friends. I love weightlifting and learning how to cook without setting my kitchen on fire. Recently, I've been jamming out to House music and watching GOT!
+I'm building @ Stealth, working at as many cafe spots as possible! I also became AWS Certified Developer as of April 2! <br><br>In my (forced) free time, I enjoy wasting money on good food with friends. I love weightlifting and learning how to cook without setting my kitchen on fire. Recently, I've been jamming out to House music and exploring NYC!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-lacsamana) 
