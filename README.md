@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a backend engineer for MetaverseHQ, working at as many cafe spots as possible! I became AWS Certified Developer as of April 2! <br><br>In my (forced) free time, I enjoy wasting money on good food with friends. I love weightlifting and learning how to cook without setting my kitchen on fire. Recently, I've been jamming out to edm and enjoying my last sem at UC Berkeley!
+I'm a backend engineer for MetaverseHQ, working at as many cafe spots as possible! <br><br>In my (forced) free time, I enjoy wasting money on good food with friends. I love weightlifting and learning how to cook without setting my kitchen on fire. Recently, I've been jamming out to edm and enjoying my last sem at UC Berkeley!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-lacsamana) 
