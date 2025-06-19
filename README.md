@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack engineer for Ataraxis AI, working at as many cafe spots as possible! <br><br>In my free time, I enjoy wasting money on good food with friends. I love weightlifting and learning how to cook without setting my kitchen on fire. Recently, I've been listening to EDM and enjoying my recent move into the city!
+I'm a full-stack engineer for Ataraxis AI :) <br><br>In my free time, I enjoy wasting money on good food with friends. I love weightlifting and learning how to cook without setting my kitchen on fire. Recently, I've been listening to EDM and enjoying my recent move into the city!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-lacsamana) 
